@@ -1,0 +1,47 @@
+Data_Label,Data_Description
+encounter_id,Encounter ID 
+patient_nbr,Patient Number
+race,Race/Ethnicity
+gender,Gender
+age,Age (binned)
+weight,Weight (binned)
+admission_type_id,Admission Type ID (mapped)
+discharge_disposition_id,Discharge Type ID (mapped)
+admission_source_id,Admission Source (mapped)
+time_in_hospital,Length of Stay of Hospital Visit
+payer_code,Payer Code
+medical_specialty,Medical Specialty Department
+num_lab_procedures,Number of Lab Tests
+num_procedures,Number of Procedures
+num_medications,Number of Medications
+diag_1,Diagnosis 1
+diag_2,Diagnosis 2
+diag_3,Diagnosis 3
+number_diagnoses,Number of Diagnoses
+max_glu_serum,Maximum Glucose Serum
+A1Cresult,A1c Test Result
+metformin,Drug Administered During Stay 
+repaglinide,Drug Administered During Stay 
+nateglinide,Drug Administered During Stay 
+chlorpropamide,Drug Administered During Stay 
+glimepiride,Drug Administered During Stay 
+acetohexamide,Drug Administered During Stay 
+glipizide,Drug Administered During Stay 
+glyburide,Drug Administered During Stay 
+tolbutamide,Drug Administered During Stay 
+pioglitazone,Drug Administered During Stay 
+rosiglitazone,Drug Administered During Stay 
+acarbose,Drug Administered During Stay 
+miglitol,Drug Administered During Stay 
+troglitazone,Drug Administered During Stay 
+tolazamide,Drug Administered During Stay 
+examide,Drug Administered During Stay 
+citoglipton,Drug Administered During Stay 
+insulin,Drug Administered During Stay 
+glyburide-metformin,Drug Administered During Stay 
+glipizide-metformin,Drug Administered During Stay 
+glimepiride-pioglitazone,Drug Administered During Stay 
+metformin-rosiglitazone,Drug Administered During Stay 
+metformin-pioglitazone,Drug Administered During Stay 
+diabetesMed,Was patient administered diabetes drug(s)?
+readmitted,Was patient readmitted? Greater-than/less-than 30 days

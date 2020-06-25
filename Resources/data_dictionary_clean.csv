@@ -1,0 +1,242 @@
+Feature,Data_Label,Data_Description,Data_Type
+y,readmit,Recoded - Readmit (yes = 1/no),dichotomous/binary
+y,readmit_<30_days,Recoded - less than 30 days  (yes=1/no),dichotomous/binary
+x,race_?,Race/Ethnicity,dichotomous/binary
+x,race_AfricanAmerican,Race/Ethnicity,dichotomous/binary
+x,race_Asian,Race/Ethnicity,dichotomous/binary
+x,race_Caucasian,Race/Ethnicity,dichotomous/binary
+x,race_Hispanic,Race/Ethnicity,dichotomous/binary
+x,race_Other,Race/Ethnicity,dichotomous/binary
+x,gender_Female,Gender,dichotomous/binary
+x,gender_Male,Gender,dichotomous/binary
+x,gender_Unknown/Invalid,Gender,dichotomous/binary
+x,age_[0-10),Age,dichotomous/binary
+x,age_[10-20),Age,dichotomous/binary
+x,age_[20-30),Age,dichotomous/binary
+x,age_[30-40),Age,dichotomous/binary
+x,age_[40-50),Age,dichotomous/binary
+x,age_[50-60),Age,dichotomous/binary
+x,age_[60-70),Age,dichotomous/binary
+x,age_[70-80),Age,dichotomous/binary
+x,age_[80-90),Age,dichotomous/binary
+x,age_[90-100),Age,dichotomous/binary
+x,weight_>200,Weight,dichotomous/binary
+x,weight_?,Weight,dichotomous/binary
+x,weight_[0-25),Weight,dichotomous/binary
+x,weight_[100-125),Weight,dichotomous/binary
+x,weight_[125-150),Weight,dichotomous/binary
+x,weight_[150-175),Weight,dichotomous/binary
+x,weight_[175-200),Weight,dichotomous/binary
+x,weight_[25-50),Weight,dichotomous/binary
+x,weight_[50-75),Weight,dichotomous/binary
+x,weight_[75-100),Weight,dichotomous/binary
+x,medical_specialty_?,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_AllergyandImmunology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Anesthesiology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Anesthesiology-Pediatric,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Cardiology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Cardiology-Pediatric,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_DCPTEAM,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Dentistry,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Dermatology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Emergency/Trauma,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Endocrinology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Endocrinology-Metabolism,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Family/GeneralPractice,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Gastroenterology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Gynecology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Hematology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Hematology/Oncology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Hospitalist,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_InfectiousDiseases,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_InternalMedicine,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Nephrology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Neurology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Neurophysiology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Obsterics&Gynecology-GynecologicOnco,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Obstetrics,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_ObstetricsandGynecology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Oncology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Ophthalmology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Orthopedics,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Orthopedics-Reconstructive,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Osteopath,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Otolaryngology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_OutreachServices,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pathology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-AllergyandImmunology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-CriticalCare,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-EmergencyMedicine,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-Endocrinology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-Hematology-Oncology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-InfectiousDiseases,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-Neurology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pediatrics-Pulmonology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Perinatology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_PhysicalMedicineandRehabilitation,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_PhysicianNotFound,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Podiatry,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Proctology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Psychiatry,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Psychiatry-Addictive,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Psychiatry-Child/Adolescent,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Psychology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Pulmonology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Radiologist,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Radiology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Resident,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Rheumatology,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Speech,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_SportsMedicine,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgeon,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Cardiovascular,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Cardiovascular/Thoracic,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Colon&Rectal,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-General,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Maxillofacial,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Neuro,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Pediatric,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Plastic,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-PlasticwithinHeadandNeck,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Thoracic,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Surgery-Vascular,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_SurgicalSpecialty,Medical Specialty Department,dichotomous/binary
+x,medical_specialty_Urology,Medical Specialty Department,dichotomous/binary
+x,max_glu_serum_>200,Glucose Serum Test Results,dichotomous/binary
+x,max_glu_serum_>300,Glucose Serum Test Results,dichotomous/binary
+x,max_glu_serum_None,Glucose Serum Test Results,dichotomous/binary
+x,max_glu_serum_Norm,Glucose Serum Test Results,dichotomous/binary
+x,A1Cresult_>7,A1C Test Results,dichotomous/binary
+x,A1Cresult_>8,A1C Test Results,dichotomous/binary
+x,A1Cresult_None,A1C Test Results,dichotomous/binary
+x,A1Cresult_Norm,A1C Test Results,dichotomous/binary
+x,metformin_Down,Drug given while in hospital?,dichotomous/binary
+x,metformin_No,Drug given while in hospital?,dichotomous/binary
+x,metformin_Steady,Drug given while in hospital?,dichotomous/binary
+x,metformin_Up,Drug given while in hospital?,dichotomous/binary
+x,repaglinide_Down,Drug given while in hospital?,dichotomous/binary
+x,repaglinide_No,Drug given while in hospital?,dichotomous/binary
+x,repaglinide_Steady,Drug given while in hospital?,dichotomous/binary
+x,repaglinide_Up,Drug given while in hospital?,dichotomous/binary
+x,nateglinide_Down,Drug given while in hospital?,dichotomous/binary
+x,nateglinide_No,Drug given while in hospital?,dichotomous/binary
+x,nateglinide_Steady,Drug given while in hospital?,dichotomous/binary
+x,nateglinide_Up,Drug given while in hospital?,dichotomous/binary
+x,chlorpropamide_Down,Drug given while in hospital?,dichotomous/binary
+x,chlorpropamide_No,Drug given while in hospital?,dichotomous/binary
+x,chlorpropamide_Steady,Drug given while in hospital?,dichotomous/binary
+x,chlorpropamide_Up,Drug given while in hospital?,dichotomous/binary
+x,glimepiride_Down,Drug given while in hospital?,dichotomous/binary
+x,glimepiride_No,Drug given while in hospital?,dichotomous/binary
+x,glimepiride_Steady,Drug given while in hospital?,dichotomous/binary
+x,glimepiride_Up,Drug given while in hospital?,dichotomous/binary
+x,acetohexamide_No,Drug given while in hospital?,dichotomous/binary
+x,acetohexamide_Steady,Drug given while in hospital?,dichotomous/binary
+x,glipizide_Down,Drug given while in hospital?,dichotomous/binary
+x,glipizide_No,Drug given while in hospital?,dichotomous/binary
+x,glipizide_Steady,Drug given while in hospital?,dichotomous/binary
+x,glipizide_Up,Drug given while in hospital?,dichotomous/binary
+x,glyburide_Down,Drug given while in hospital?,dichotomous/binary
+x,glyburide_No,Drug given while in hospital?,dichotomous/binary
+x,glyburide_Steady,Drug given while in hospital?,dichotomous/binary
+x,glyburide_Up,Drug given while in hospital?,dichotomous/binary
+x,tolbutamide_No,Drug given while in hospital?,dichotomous/binary
+x,tolbutamide_Steady,Drug given while in hospital?,dichotomous/binary
+x,pioglitazone_Down,Drug given while in hospital?,dichotomous/binary
+x,pioglitazone_No,Drug given while in hospital?,dichotomous/binary
+x,pioglitazone_Steady,Drug given while in hospital?,dichotomous/binary
+x,pioglitazone_Up,Drug given while in hospital?,dichotomous/binary
+x,rosiglitazone_Down,Drug given while in hospital?,dichotomous/binary
+x,rosiglitazone_No,Drug given while in hospital?,dichotomous/binary
+x,rosiglitazone_Steady,Drug given while in hospital?,dichotomous/binary
+x,rosiglitazone_Up,Drug given while in hospital?,dichotomous/binary
+x,acarbose_Down,Drug given while in hospital?,dichotomous/binary
+x,acarbose_No,Drug given while in hospital?,dichotomous/binary
+x,acarbose_Steady,Drug given while in hospital?,dichotomous/binary
+x,acarbose_Up,Drug given while in hospital?,dichotomous/binary
+x,miglitol_Down,Drug given while in hospital?,dichotomous/binary
+x,miglitol_No,Drug given while in hospital?,dichotomous/binary
+x,miglitol_Steady,Drug given while in hospital?,dichotomous/binary
+x,miglitol_Up,Drug given while in hospital?,dichotomous/binary
+x,troglitazone_No,Drug given while in hospital?,dichotomous/binary
+x,troglitazone_Steady,Drug given while in hospital?,dichotomous/binary
+x,tolazamide_No,Drug given while in hospital?,dichotomous/binary
+x,tolazamide_Steady,Drug given while in hospital?,dichotomous/binary
+x,tolazamide_Up,Drug given while in hospital?,dichotomous/binary
+x,insulin_Down,Drug given while in hospital?,dichotomous/binary
+x,insulin_No,Drug given while in hospital?,dichotomous/binary
+x,insulin_Steady,Drug given while in hospital?,dichotomous/binary
+x,insulin_Up,Drug given while in hospital?,dichotomous/binary
+x,glyburide-metformin_Down,Drug given while in hospital?,dichotomous/binary
+x,glyburide-metformin_No,Drug given while in hospital?,dichotomous/binary
+x,glyburide-metformin_Steady,Drug given while in hospital?,dichotomous/binary
+x,glyburide-metformin_Up,Drug given while in hospital?,dichotomous/binary
+x,glipizide-metformin_No,Drug given while in hospital?,dichotomous/binary
+x,glipizide-metformin_Steady,Drug given while in hospital?,dichotomous/binary
+x,glimepiride-pioglitazone_No,Drug given while in hospital?,dichotomous/binary
+x,glimepiride-pioglitazone_Steady,Drug given while in hospital?,dichotomous/binary
+x,metformin-rosiglitazone_No,Drug given while in hospital?,dichotomous/binary
+x,metformin-rosiglitazone_Steady,Drug given while in hospital?,dichotomous/binary
+x,metformin-pioglitazone_No,Drug given while in hospital?,dichotomous/binary
+x,metformin-pioglitazone_Steady,Drug given while in hospital?,dichotomous/binary
+x,diabetesMed_No,Diabetese medication given in hospital?,dichotomous/binary
+x,diabetesMed_Yes,Diabetese medication given in hospital?,dichotomous/binary
+x,admission_source_Clinic Referral,Admit Source,dichotomous/binary
+x,admission_source_Court/Law Enforcement,Admit Source,dichotomous/binary
+x,admission_source_Emergency Room,Admit Source,dichotomous/binary
+x,admission_source_Extramural Birth,Admit Source,dichotomous/binary
+x,admission_source_HMO Referral,Admit Source,dichotomous/binary
+x,admission_source_NULL,Admit Source,dichotomous/binary
+x,admission_source_Normal Delivery,Admit Source,dichotomous/binary
+x,admission_source_Not Available,Admit Source,dichotomous/binary
+x,admission_source_Not Mapped,Admit Source,dichotomous/binary
+x,admission_source_Physician Referral,Admit Source,dichotomous/binary
+x,admission_source_Sick Baby,Admit Source,dichotomous/binary
+x,admission_source_Transfer from Ambulatory Surgery Center,Admit Source,dichotomous/binary
+x,admission_source_Transfer from a Skilled Nursing Facility (SNF),Admit Source,dichotomous/binary
+x,admission_source_Transfer from a hospital,Admit Source,dichotomous/binary
+x,admission_source_Transfer from another health care facility,Admit Source,dichotomous/binary
+x,admission_source_Transfer from critial access hospital,Admit Source,dichotomous/binary
+x,admission_source_Transfer from hospital inpt/same fac reslt in a sep claim,Admit Source,dichotomous/binary
+x,admission_type_Elective,Admit Type,dichotomous/binary
+x,admission_type_Emergency,Admit Type,dichotomous/binary
+x,admission_type_NULL,Admit Type,dichotomous/binary
+x,admission_type_Newborn,Admit Type,dichotomous/binary
+x,admission_type_Not Available,Admit Type,dichotomous/binary
+x,admission_type_Not Mapped,Admit Type,dichotomous/binary
+x,admission_type_Trauma Center,Admit Type,dichotomous/binary
+x,admission_type_Urgent,Admit Type,dichotomous/binary
+x,discharge_disposition_Admitted as an inpatient to this hospital,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged to home,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to ICF,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to SNF,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to a federal health care facility.,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to a long term care hospital.,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare.,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to another rehab fac including rehab units of a hospital.,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to another short term hospital,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to another type of inpatient care institution,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to home under care of Home IV provider,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred to home with home health service,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred within this institution to Medicare approved swing bed,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred/referred another institution for outpatient services,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Discharged/transferred/referred to this institution for outpatient services,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Expired,Discharge Disposition,dichotomous/binary
+x,"discharge_disposition_Expired at home. Medicaid only, hospice.",Discharge Disposition,dichotomous/binary
+x,"discharge_disposition_Expired in a medical facility. Medicaid only, hospice.",Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Hospice / home,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Hospice / medical facility,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Left AMA,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_NULL,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Neonate discharged to another hospital for neonatal aftercare,Discharge Disposition,dichotomous/binary
+x,discharge_disposition_Still patient or expected to return for outpatient services,Discharge Disposition,dichotomous/binary
+x,admission_type_id,Admission Type ID (mapped),integer
+x,discharge_disposition_id,Discharge Type ID (mapped),integer
+x,admission_source_id,Admission Source (mapped),integer
+x,time_in_hospital,Length of Stay of Hospital Visit,integer
+x,num_lab_procedures,Number of Lab Tests,integer
+x,num_procedures,Number of Procedures,integer
+x,num_medications,Number of Medications,integer
+x,number_diagnoses,Number of Diagnoses,integer

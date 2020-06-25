@@ -1,0 +1,24 @@
+Data_Label,Drug_Class,Drug_Category,Drug_Description
+acarbose,alpha-glucosidase inhibitor,inhibitor,Carbohydrates that are eaten are digested by enzymes in the intestine into smaller sugars which are absorbed into the body and increase blood sugar levels.
+miglitol,alpha-glucosidase inhibitor,inhibitor,Miglitol is an oral medication used to control blood glucose (sugar) levels in type 2 diabetes.
+metformin,biguanide,biguanide,"The term biguanide refers to a group of oral type 2 diabetes drugs that work by preventing the production of glucose in the liver, improving the body's sensitivity towards insulin and reducing the amount of sugar absorbed by the intestines."
+metformin-pioglitazone,biguanide-sulfonylurea,combo drug therapy,Combo drug therapy
+metformin-rosiglitazone,biguanide-thiazolidinedione,combo drug therapy,Combo drug therapy
+citoglipton,dipeptidyl peptidase-4 (DPP-4) inhibitor,inhibitor,"aka ""Sitagliptin"" works by regulating the levels of insulin your body produces after eating"
+examide,diuretic,diuretic,diuretic medications make your body excrete more fluids as urine.
+insulin,human hormone,human hormone,human hormone
+repaglinide,meglitinide,meglitinide,They work by triggering production of insulin. 
+nateglinide,meglitinide,meglitinide,They work by triggering production of insulin. 
+acetohexamide,sulfonylurea,sulfonylurea,Sulfonylurea: A class of oral hypoglycemic agents (medications that lower the level of blood glucose) taken by people with type 2 diabetes. The sulfonylureas increase the secretion of insulin by the pancreas. There are two generations of sulfonylureas.
+glipizide,sulfonylurea,sulfonylurea,Sulfonylurea: A class of oral hypoglycemic agents (medications that lower the level of blood glucose) taken by people with type 2 diabetes. The sulfonylureas increase the secretion of insulin by the pancreas. There are two generations of sulfonylureas.
+chlorpropamide,sulfonylurea,sulfonylurea,Sulfonylurea: A class of oral hypoglycemic agents (medications that lower the level of blood glucose) taken by people with type 2 diabetes. The sulfonylureas increase the secretion of insulin by the pancreas. There are two generations of sulfonylureas.
+glimepiride,sulfonylurea,sulfonylurea,Sulfonylurea: A class of oral hypoglycemic agents (medications that lower the level of blood glucose) taken by people with type 2 diabetes. The sulfonylureas increase the secretion of insulin by the pancreas. There are two generations of sulfonylureas.
+glyburide,sulfonylurea,sulfonylurea,Sulfonylurea: A class of oral hypoglycemic agents (medications that lower the level of blood glucose) taken by people with type 2 diabetes. The sulfonylureas increase the secretion of insulin by the pancreas. There are two generations of sulfonylureas.
+tolbutamide,sulfonylurea,sulfonylurea,Sulfonylurea: A class of oral hypoglycemic agents (medications that lower the level of blood glucose) taken by people with type 2 diabetes. The sulfonylureas increase the secretion of insulin by the pancreas. There are two generations of sulfonylureas.
+tolazamide,sulfonylurea,sulfonylurea,Sulfonylurea: A class of oral hypoglycemic agents (medications that lower the level of blood glucose) taken by people with type 2 diabetes. The sulfonylureas increase the secretion of insulin by the pancreas. There are two generations of sulfonylureas.
+glyburide-metformin,sulfonylurea-biguanide,combo drug therapy,Combo drug therapy
+glipizide-metformin,sulfonylurea-biguanide,combo drug therapy,Combo drug therapy
+glimepiride-pioglitazone,sulfonylurea-thiazolidinedione,combo drug therapy,Combo drug therapy
+pioglitazone,thiazolidinedione,thiazolidinedione,A type of oral hypoglycemic (a medicine that lowers blood glucose levels).
+rosiglitazone,thiazolidinedione,thiazolidinedione,A type of oral hypoglycemic (a medicine that lowers blood glucose levels).
+troglitazone,thiazolidinedione,thiazolidinedione,A type of oral hypoglycemic (a medicine that lowers blood glucose levels).
